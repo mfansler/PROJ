@@ -1,6 +1,6 @@
-79396afbacb8c2a387475cc05092a16d *DESCRIPTION
+370b0b82fdff78cfd62f73965670ea36 *DESCRIPTION
 5d806475fa5a29d530d8990354e77a22 *NAMESPACE
-0e47c998f77577ba3f130f31b7ca7bc8 *NEWS.md
+024ea38b4ed1826ad44a01bd74f639ab *NEWS.md
 48194a4b4b677d2cf8721d3e778a52ae *R/PROJ-package.R
 344ca288f502518c3a4b173de2756a43 *R/ok_proj6.R
 7a70f17af63f3949fc12fc5cddc91d9b *R/proj-info.R
@@ -12,10 +12,10 @@ ebb3cafeca0ecc8b6753421c69cd7006 *R/sysdata.rda
 fdd64b4d073d7710ff42a5c3e781d2e2 *R/wk-trans.R
 187910b4393a4678b5e8bcc368ddb6dc *R/zzz.R
 5f73522a8ae49bd0fe6676243db8257a *README.md
-fa41184fb1dcf937bf5bf55073d0cc0f *build/vignette.rds
+5042129e19a5c25baeaf6d0684b5a1f6 *build/vignette.rds
 b20bb980bc24ab861947325eb0d6c139 *cleanup
-25bb8888b265fbc37c2275ec1c7eab5f *configure
-88f40d9c051b363082c0676eb06faae2 *configure.ac
+aa21c14ba5700bb1b4a4e2f07b4a5051 *configure
+675773104609014d8ce423833579c492 *configure.ac
 f3389c115358d7c693d22f378b5eae9f *data/xymap.rda
 7bf486dfaa4fb667786ed6d9482eece6 *inst/WORDLIST
 a764f14351f9eb83096347206357dfb9 *inst/ci/CHECK.out
@@ -24,7 +24,7 @@ c78bbe494ff96cd36cc4fb30de0ba006 *inst/ci/INSTALL.out
 dee9d139a11c6b32cb481e22fd888880 *inst/ci/VALGRIND.out
 6b9f2b9c49e6bcf38adf821160290a61 *inst/ci/VALGRINDfull.out
 c16da8281db8bbb6b4e23dd229f15c62 *inst/doc/PROJ.Rmd
-d360217342e6e6d8e66510fb40bb244a *inst/doc/PROJ.html
+fd87e1b9facb8d603ccbc6a7a6289f5a *inst/doc/PROJ.html
 c934741fcb1d95b3793a5fecb02944a4 *man/PROJ-package.Rd
 db0e7b5de5a5631541294476dbb88cee *man/figures/README-example-1.png
 398f39476598bc90934546876b25c16d *man/figures/README-example-2.png
