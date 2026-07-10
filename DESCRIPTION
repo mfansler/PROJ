@@ -1,6 +1,6 @@
 Package: PROJ
 Title: Generic Coordinate System Transformations Using 'PROJ'
-Version: 0.6.0
+Version: 0.7.0
 Authors@R: 
     c(person(given = "Michael D.",
            family = "Sumner",
@@ -24,8 +24,8 @@ Depends: R (>= 3.0.2)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: lifecycle, wk
-LinkingTo: wk
+Imports: lifecycle, wk (>= 0.9.2)
+LinkingTo: wk (>= 0.9.2)
 Suggests: testthat (>= 3.0.0), spelling, knitr, rmarkdown, sf
 URL: https://github.com/hypertidy/PROJ,
         https://hypertidy.github.io/PROJ/
@@ -33,11 +33,12 @@ BugReports: https://github.com/hypertidy/PROJ/issues
 Language: en-US
 VignetteBuilder: knitr
 SystemRequirements: PROJ (>= 6.3.1)
-RoxygenNote: 7.3.2
 Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
 NeedsCompilation: yes
-Packaged: 2025-04-03 00:07:19 UTC; mdsumner
-Author: Michael D. Sumner [aut, cre] (<https://orcid.org/0000-0002-2471-7511>),
+Packaged: 2026-07-10 06:24:15 UTC; mdsumner
+Author: Michael D. Sumner [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-2471-7511>),
   Jeroen Ooms [ctb] (provided PROJ library support on Windows, and
     assistance with Windows configuration),
   Simon Urbanek [cph, ctb] (wrote original code versions for PROJ version
@@ -46,4 +47,4 @@ Author: Michael D. Sumner [aut, cre] (<https://orcid.org/0000-0002-2471-7511>),
   Anthony North [ctb]
 Maintainer: Michael D. Sumner <mdsumner@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-04-03 02:30:02 UTC
+Date/Publication: 2026-07-10 07:10:02 UTC
